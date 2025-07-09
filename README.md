@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Berkra07
+- 👋 Hi there, I’m Bernardo Kreavutschke
 
-
-<!---
-Berkra07/Berkra07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3>:chart_with_upwards_trend: On this portifolio</h3>
+![Berkra07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkra07&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
