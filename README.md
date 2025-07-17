@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Bernardo Kravutschke, currently pursuing Systems Analysis and Development. I reside in Nova Londrina, where I'm dedicated to honing my skills in programming. My goal is to specialize as a backend developer, leveraging my passion for coding to create efficient and robust software solutions.</h2>
+<h2 align="left">Hi 👋! I'm Bernardo Kravutschke, currently pursuing Systems Analysis and Development. I'm from Brasil</h2>
 
 ###
 
