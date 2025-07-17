@@ -4,6 +4,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkra07&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=Berkra07&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=saifurrahman1193&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
