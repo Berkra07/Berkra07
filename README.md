@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Berkra07&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/> alt="stats graph"  />
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Berkra07&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetaua&theme=prussian&layout=compact"/>
 </div>
 
