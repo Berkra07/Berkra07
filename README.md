@@ -5,4 +5,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkra07&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Berkra07)
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
