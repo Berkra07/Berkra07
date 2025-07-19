@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Bernardo Kravutschke, currently pursuing Systems Analysis and Development. I'm from Brasil</h2>
+<h2 align="left">Hi 👋! I'm Bernardo Kravutschke,I'm from Brasil, currently pursuing Systems Analysis and Development.</h2>
 
 ###
 
