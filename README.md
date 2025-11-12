@@ -1,30 +1,18 @@
-<h2 align="left">Hi 👋! I'm Bernardo Kravutschke,I'm from Brasil, currently pursuing Systems Analysis and Development.</h2>
+<h1 align="left">Bernardo Kravutschke</h1>
 
 ###
+<p>  I'm a Systems Analysis and Development student who loves building creative and efficient software solutions.  
+ I’m currently focused on learning Java and web development, improving my programming logic, and exploring software engineering best practices.  
+ I believe in continuous learning and enjoy turning ideas into code.  </p>
 
-<div align="center">
- <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Berkra07&theme=graywhite&show_icons=true&hide_border=true&count_private=true"/>
- <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkra07&theme=graywhite&show_icons=true&hide_border=true&layout=compact"/>
-</div>
+---
+### Lenguages and tools 🛠️
 
-<div align="center">
- <img width="50%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Berkra07&theme=graywhite&hide_border=true"/>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"  height="40" alt="inteliJ logo"/>
-         
-</div>
-
+  <img  align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
+  <img  align="left" alt="html5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img  align="left" alt="css3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img  align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"   />
+ 
+  <img  align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"  />
+  <img  align="left" alt="inteliJ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"  />
+ 
