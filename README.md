@@ -6,13 +6,14 @@
  I believe in continuous learning and enjoy turning ideas into code.  </p>
 
 ---
+
 ### Lenguages and tools 🛠️
 
-  <img  align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
-  <img  align="left" alt="html5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img  align="left" alt="css3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img  align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"   />
- 
-  <img  align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"  />
-  <img  align="left" alt="inteliJ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"  />
- 
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,git,github,idea,vscode)](https://skillicons.dev)
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Berkra07&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkra07&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
