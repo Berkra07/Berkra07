@@ -9,7 +9,7 @@
 
 ### Lenguages and tools 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,git,github,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,html,css,git,github,idea,clion,vscode)](https://skillicons.dev)
 
 <details>
   <summary>Github Stats ⚡</summary>
